@@ -1,4 +1,4 @@
-# worldhappiness-api
+# JavaScript REST API built on Express.js
 interactive API documentation for this project can be found at: https://worldhappiness-api.herokuapp.com/
 
 ## Summary
